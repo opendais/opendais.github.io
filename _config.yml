@@ -1,2 +1,4 @@
-name: Your New Jekyll Site
+name: Open Dais Engineering Blog
 pygments: true
+timezone: America/Los_Angeles
+paginate: 3

@@ -41,17 +41,17 @@ table {
 /*****************************************************************************/
 ul.posts {
   list-style-type: none;
-  margin-bottom: 2em;
+/*  margin-bottom: 2em; */
 }
 
 ul.posts li {
-  line-height: 1.75em;
+/*  line-height: 1.75em; */
 }
 
 ul.posts span {
-  color: #aaa;
+ /* color: #333;
   font-family: Monaco, "Courier New", monospace;
-  font-size: 80%;
+  font-size: 80%; */
 }
 
 /*****************************************************************************/
@@ -87,7 +87,7 @@ ul.posts span {
 }
 
 .site .header a.extra {
-  color: #aaa;
+  color: #333;
   margin-left: 1em;
 }
 
@@ -96,13 +96,13 @@ ul.posts span {
 }
 
 .site .meta {
-  color: #aaa;
+  color: #333;
 }
 
 .site .footer {
   font-size: 80%;
   color: #666;
-  border-top: 4px solid #eee;
+  border-top: 4px solid #333;
   margin-top: 2em;
   overflow: hidden;
 }
